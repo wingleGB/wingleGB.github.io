@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: wingleGH
-baseurl: /wingleGH.github.io
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
